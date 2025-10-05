@@ -4,7 +4,7 @@
 
 ### Some of the projects I have worked on are for streaming enhancement, and personally developed games.
 
-### If you want, heres my LinkedIn https://www.linkedin.com/in/jacob-roundy-94b41a348/
+#### If you want, heres my LinkedIn https://www.linkedin.com/in/jacob-roundy-94b41a348/
 <!--
 **LordGumba/LordGumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
