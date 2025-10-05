@@ -1,5 +1,10 @@
-## Hi there 👋
+### Hi. My names Jacob Roundy. I like gaming, having fun, and helping others have fun!
 
+## I have a little experience with Python, C#, Rust, and Erlang. I have also used GODOT a couple of times.
+
+## Some of the projects I have worked on are for streaming enhancement, and personally developed games.
+
+## If you want, heres my LinkedIn https://www.linkedin.com/in/jacob-roundy-94b41a348/
 <!--
 **LordGumba/LordGumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
